@@ -2,7 +2,7 @@
 <p align="center"> <a href="https://www.linkedin.com/in/1abhishekpal/">Linkedin</a>
 <hr>  </hr>
 
-<p align="center"> Working as a NLP Engineer </p>
+<p align="center"> Currently working as a NLP Engineer </p>
 <!--
 **abhiishekpal/abhiishekpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
